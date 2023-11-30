@@ -1,8 +1,13 @@
 A warm welcome to you!!!
 
 
-'Restriction-site-finder' helps you to find all restriction (with position) sites present in your FASTA sequence along with its respective Restriction enzymes.
+'Restriction-site-finder' helps you find all restriction (with position) sites in your FASTA sequence and their respective Restriction enzymes.
 
-Command Line Interface (CLI) is build which gives you a seamless experience. 
+Command Line Interface (CLI) is built, which gives you a seamless experience. 
+
+Input: the path of your file that contains the FASTA sequence (e.g., D:\desktop\fasta.txt)
+Output: position of the restriction site, cut site, restriction enzyme/s (e.g., Position: **, cut site: **, RE: [*, *])
+
+
 
 Thank you for using 'Restriction-site-finder'...
